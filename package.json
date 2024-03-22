@@ -1,0 +1,23 @@
+{
+  "name": "cypress-seo-check",
+  "version": "1.0.0",
+  "description": "E2E testing script for checking SEO good practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelotena/cypress-seo-check.git"
+  },
+  "author": "Marcelo Tena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelotena/cypress-seo-check/issues"
+  },
+  "homepage": "https://github.com/marcelotena/cypress-seo-check#readme",
+  "devDependencies": {
+    "cypress": "^13.7.1",
+    "x2js": "^3.4.4"
+  }
+}
